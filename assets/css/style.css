@@ -1,0 +1,65 @@
+html {
+    position: relative;
+    min-height: 100%;
+}
+
+body {
+    margin-bottom: 60px;
+}
+
+.container-fluid {
+    background-image: url("http://i.imgur.com/M6vuGSS.png");
+    background-size: 100%;
+}
+
+#gifArea {
+    margin-top: 20px;
+}
+
+
+.footer {
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    height: 60px;
+    line-height: 60px;
+    text-align: center;
+    background-color: black;
+}
+
+.credit {
+    font-size: 12px;
+}
+
+#title {
+    color: #fff;
+    text-align: center;
+    font-family: 'Indie Flower', cursive;
+    padding-top: 16px;
+    font-size: 60px;
+}
+
+#header {
+    background-color: #000000;
+    background-size: 100%;
+    height: 70px;
+}
+
+.btn {
+    margin: 3px;
+}
+
+#buttonArea {
+    margin-top: 10px;
+}
+
+#wrap {
+    background-color: #b7b7b7;
+    color: #646464;
+}
+
+.submit {
+    background-color: #262626;
+    color: white;
+    border: 1px solid #646464;
+}
